@@ -1,4 +1,4 @@
-Artifical-Intelligence Practicals
+#Artifical-Intelligence Practicals
 1. Write a prolog program to calculate the sum of two numbers.
 2. Write a Prolog program to implement max(X, Y, M) so that M is the maximum of two
 numbers X and Y.
